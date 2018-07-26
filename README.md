@@ -1,10 +1,12 @@
 Trading data analysis
 
+
 ## Instalation
+
+- python v3.6
+
 ```
-python v3.6
-matplotlib
-**_pip install pandas_**
+pip install pandas
 ```
 ## Example
 ```
